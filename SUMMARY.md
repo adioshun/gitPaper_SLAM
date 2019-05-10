@@ -7,6 +7,6 @@
 ## Registration
 
 * [2016-Point Clouds Registration with Probabilistic Data Association](registration/2016-point-clouds-registration-with-probabilistic-data-association.md)
-* [2018-A Point Cloud Registration Algorithm Based on Feature Extraction and Matching](registration/2018-a-point-cloud-registration-algorithm-based-on-feature-extraction-and-matching.md)
+* [2018-A Point Cloud Registration Algorithm Based on Feature Extraction and Matching \(30%\)](registration/2018-a-point-cloud-registration-algorithm-based-on-feature-extraction-and-matching.md)
 * [Three Point Registration](registration/three-point-registration.md)
 
