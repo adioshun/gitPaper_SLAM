@@ -6,6 +6,6 @@
 
 ## Registration
 
-* 2016-Point Clouds Registration with Probabilistic Data Association
+* [2016-Point Clouds Registration with Probabilistic Data Association](registration/2016-point-clouds-registration-with-probabilistic-data-association.md)
 * [Three Point Registration](registration/three-point-registration.md)
 
